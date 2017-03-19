@@ -1,0 +1,11 @@
+#root {
+    height: 100%;
+}
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.content-wrap {
+    flex: 1 0 auto;
+}
